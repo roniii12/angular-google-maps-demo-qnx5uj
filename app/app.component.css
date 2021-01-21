@@ -1,0 +1,15 @@
+agm-map {
+  height: 300px;
+}
+
+* {
+  font-family: Lato;
+}
+
+a {
+  color: darkblue;
+}
+
+::ng-deep button[title="Close"] {
+  display: none !important;
+}
